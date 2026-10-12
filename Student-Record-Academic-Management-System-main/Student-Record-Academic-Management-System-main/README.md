@@ -40,5 +40,4 @@ This project is developed using Python to demonstrate how Python collections can
 Student records are stored in memory while the program is running. The data resets when the program is restarted.
 
 ## Author
-
-Sarthak Yelwande
+Arnav Shinde
